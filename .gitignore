@@ -1,0 +1,6 @@
+#Ignore Below Files
+settings.py
+admin.py
+*.pyc
+__pycache__/
+
